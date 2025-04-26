@@ -26,3 +26,5 @@
 + [daysui](prompts/frontend/daysui-v2.md)
 
 + [ws-plan](prompts/backend/ws-plan.md)
+
++ [实习报告](prompts/task/school-plan.md)
