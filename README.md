@@ -24,3 +24,5 @@
 + [requirements](prompts/generate/4-requirements.md)
 
 + [daysui](prompts/frontend/daysui-v2.md)
+
++ [ws-plan](prompts/backend/ws-plan.md)
